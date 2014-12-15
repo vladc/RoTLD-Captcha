@@ -1,0 +1,9 @@
+{
+  "name": "rotld_captcha",
+  "title": "RoTLD Captcha",
+  "id": "jid1-fbWBdvbPpwwAdQ",
+  "description": "automatically fill RoTLD's Captcha",
+  "author": "vldc",
+  "license": "wtfpl",
+  "version": "0.4"
+}
