@@ -1,5 +1,5 @@
 # RoTLD CAPTCHA
-![captcha breaker](http://i.imgur.com/VmgEmyu.gif) 
+![captcha breaker](http://i.imgur.com/NWyxetu.gif) 
 
 A Firefox (>34) extension that breaks rotld.ro's audio CAPTCHA, with 100% accuracy.
 
